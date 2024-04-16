@@ -3,7 +3,7 @@
   "displayName": "llm-vscode",
   "description": "LLM powered development for VS Code",
   "version": "0.2.0",
-  "publisher": "HuggingFace",
+  "publisher": "andrewmcwattersandco",
   "icon": "small_logo.png",
   "engines": {
     "vscode": "^1.82.0"
