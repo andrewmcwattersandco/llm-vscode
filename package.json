@@ -243,7 +243,7 @@
     "test": "node ./out/test/runTest.js"
   },
   "dependencies": {
-    "undici": "^6.6.2",
+    "undici": "^6.11.1",
     "vscode-languageclient": "^9.0.1"
   },
   "devDependencies": {
