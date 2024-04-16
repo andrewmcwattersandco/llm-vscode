@@ -1,5 +1,5 @@
 {
-  "name": "huggingface-vscode",
+  "name": "andrewmcwattersandco-llm-vscode",
   "displayName": "llm-vscode",
   "description": "LLM powered development for VS Code",
   "version": "0.2.0",
